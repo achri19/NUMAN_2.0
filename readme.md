@@ -9,11 +9,11 @@ Related paper/manuscript for NUMAN 2.0: IN REVIEW *(The link and citation will b
 
 ## Contributors to the model
 - Pradipta Biswas<sup>1
-- Robert R. Twilley
-- André S. Rovai1,*,
-- Alexandra Christensen2,
-- Zoe I. Shribman1,**,
-- Sabarethinam Kameshwar3
+- Robert R. Twilley<sup>1
+- André S. Rovai<sup>1,*
+- Alexandra Christensen<sup>2
+- Zoe I. Shribman<sup>1,**
+- Sabarethinam Kameshwar<sup>3
 
 1 Department of Oceanography and Coastal Sciences, College of Coast and Environment, Louisiana State University, Baton Rouge, Louisiana, USA
 
