@@ -4,7 +4,8 @@ The Nutrient Mangrove (NUMAN) model, initially developed by Chen & Twilley (1999
 
 Original paper for previous NUMAN version: Chen, R., & Twilley, R. R. (1999). A simulation model of organic matter and nutrient accumulation in mangrove wetland soils. Biogeochemistry, 44(1), 93–118. https://doi.org/10.1007/BF00993000
 
-Related paper/manuscript for NUMAN 2.0: IN REVIEW *(The link and citation will be shared once the preprint is available to share)*
+**Related paper/manuscript for NUMAN 2.0**: IN REVIEW *(The link and citation will be shared once the preprint is available to share)*.
+
 *Read the manuscript and supplementary material for more detailed understanding of the model*
 
 ## Contributors to the model
