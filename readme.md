@@ -44,7 +44,7 @@ Make sure the user’s working environment has following packages
 
 ## General Information 
 
-The script was developed in *spyder 5.5.1. python IDE 3.12.2 in anaconda navigator* environment. Download and set-up instructions can be found in the respective website (https://www.anaconda.com/products/individual). It is not recommended to change the location or name of the input CSV file as the directory is set up in a certain way to access the data input. Any change to the input should be made at the user’s own discretion. 
+The script was developed in *spyder 5.5.1. python IDE 3.12.2 in ANACONDA Navigator* distribution. Download and set-up instructions can be found in the respective website (https://www.anaconda.com/products/individual). It is not recommended to change the location or name of the input CSV file as the directory is set up in a certain way to access the data input. Any change to the input should be made at the user’s own discretion. 
 
 
 ## General Guide
