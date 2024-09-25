@@ -9,12 +9,12 @@ Original paper for previous NUMAN version: Chen, R., & Twilley, R. R. (1999). A 
 *Read the manuscript and supplementary material for more detailed understanding of the model*
 
 ## Contributors to the model
-- Pradipta Biswas*<sup>1*
-- Robert R. Twilley*<sup>1*
-- André S. Rovai*<sup>1,a*
-- Alexandra Christensen*<sup>2*
-- Zoë Shribman*<sup>1,b*
-- Sabarethinam Kameshwar*<sup>3*
+- Pradipta Biswas<sup>1
+- Robert R. Twilley<sup>1
+- André S. Rovai<sup>1,a
+- Alexandra Christensen<sup>2
+- Zoë Shribman<sup>1,b
+- Sabarethinam Kameshwar<sup>3
 
 #### Address
 *1* Department of Oceanography and Coastal Sciences, College of Coast and Environment, Louisiana State University, Baton Rouge, Louisiana, USA
