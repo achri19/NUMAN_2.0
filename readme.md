@@ -8,12 +8,12 @@ Related paper/manuscript for NUMAN 2.0: IN REVIEW *(The link and citation will b
 *Read the manuscript and supplementary material for more detailed understanding of the model*
 
 ## Contributors to the model
-- Pradipta Biswas<sup>1
-- Robert R. Twilley<sup>1
-- André S. Rovai<sup>1,a
-- Alexandra Christensen<sup>2
-- Zoe I. Shribman<sup>1,b
-- Sabarethinam Kameshwar<sup>3
+- Pradipta Biswas*<sup>1*
+- Robert R. Twilley*<sup>1*
+- André S. Rovai*<sup>1,a*
+- Alexandra Christensen*<sup>2*
+- Zoë Shribman*<sup>1,b*
+- Sabarethinam Kameshwar*<sup>3*
 
 #### Address
 *1* Department of Oceanography and Coastal Sciences, College of Coast and Environment, Louisiana State University, Baton Rouge, Louisiana, USA
@@ -43,7 +43,7 @@ Make sure the user’s working environment has following packages
 
 ## General Information 
 
-The script was developed in spyder 5.5.1. python IDE 3.12.2 in anaconda navigator environment. Download and set-up instructions can be found in the respective website (https://www.anaconda.com/products/individual). It is not recommended to change the location or name of the input CSV file as the directory is set up in a certain way to access the data input. Any change to the input should be made at the user’s own discretion. 
+The script was developed in *spyder 5.5.1. python IDE 3.12.2 in anaconda navigator* environment. Download and set-up instructions can be found in the respective website (https://www.anaconda.com/products/individual). It is not recommended to change the location or name of the input CSV file as the directory is set up in a certain way to access the data input. Any change to the input should be made at the user’s own discretion. 
 
 
 ## General Guide
