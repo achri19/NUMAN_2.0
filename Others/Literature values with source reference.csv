@@ -1,0 +1,18 @@
+No,Mean Accretion (mm/yr),Mean Accretion (cm/yr),Mean OM%,Mean OM Density (mg/cm3),OC Density (mg/cm3),C_Seq (g/m2/yr),Mean BD (g/cm3),IM(%),IM Density (mg/cm3),Source ,Sites,
+1,2.7,0.27,,,44.9,123,0.2,,,"Breithaupt et al., 2014",Shark River,
+2,2.35,0.24,,,,,,,,"Chambers et al., 2021",Shark River,
+3,3.2,0.32,,,,,,,,"Feher et al ., 2020  ",Shark River,
+4,3,0.3,,,,,,,,"Castaneda et al., 2010",Shark River,
+5,2.2,0.22,32,99.2,,,0.31,68,,"Breithaupt et al., 2017",Shark River,OM concentration determined using OM% and bulk density 
+6,,,34.1,107.15,41.5,,0.33,65.9,223.91,"Shribman, 2021",Shark River,
+7,,,55.2,104.88,,,0.19,44.8,,"CastenedaMoya et al., 2013",Shark River,
+1,1.6,0.16,,,,86,0.25,,,"Lynch et al., 1989",Rookery Bay,
+2,,,49.2,100.39,46.66,,0.21,50.8,112.16,"Shribman, 2021",Rookery Bay,
+3,2,0.2,,,,,,,,"Sklar et al., 2021",Rookery Bay,
+4,,,,,48.28,,,,,"Rovai et al., 2018;Shribman, 2021",Rookery Bay,
+1,,,,,47.05,,,,,"Rovai et al., 2018; Shribman, 2021",Taylor Slough,
+2,,,64.1,107,47.69,,0.17,35.9,62.9,"Shribman, 2021",Taylor Slough,
+3,2.1,0.21,,,,,,,,Sklar et al. 2022,Taylor Slough,
+4,,,,,,114.9,,,,Rovai & Twilley 2021,Taylor Slough,Carbonate settings 
+5,,,,,,102.6,,,,Breithaupt & Steinmuller 2022,Taylor Slough,Carbonate settings 
+6,,,,,,,0.15,,,"Poret et al., 2007",Taylor Slough,
