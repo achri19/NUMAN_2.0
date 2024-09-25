@@ -55,4 +55,4 @@ Here are some general guidelines to run the model.
 
 *Input and output variables with their unit has been discussed in the supplementary materials.* 
 
-*N.B.  We discourage any unauthorized reproduction, distribution, or modification of the code for commercial purposes. By accessing or using the code, the user agree to acknowledge the authors appropriately in any derivative work or related publications.*
+*N.B.  We discourage any unauthorized reproduction, distribution, or modification of the code for commercial purposes. By accessing or using the code, the user agrees to acknowledge the authors appropriately in any derivative work or related publications.*
