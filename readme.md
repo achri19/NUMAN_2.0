@@ -14,12 +14,14 @@ Related paper/manuscript for NUMAN 2.0: IN REVIEW *(The link and citation will b
 - Alexandra Christensen<sup>2
 - Zoe I. Shribman<sup>1,**
 - Sabarethinam Kameshwar<sup>3
+**Address**
+<sup>1 Department of Oceanography and Coastal Sciences, College of Coast and Environment, Louisiana State University, Baton Rouge, Louisiana, USA
+<sup>2 Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, 91109, USA
+<sup>3 Department of Civil & Environmental Engineering, Louisiana State University, Baton Rouge, Louisiana, USA
 
-1 Department of Oceanography and Coastal Sciences, College of Coast and Environment, Louisiana State University, Baton Rouge, Louisiana, USA
-
-2 Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, 91109, USA
-
-3 Department of Civil & Environmental Engineering, Louisiana State University, Baton Rouge, Louisiana, USA
+*Present Address*
+<sup>* U.S. Army Engineer Research and Development Center, Vicksburg, MS, 39180, USA
+<sup>3** Department of Earth and Environmental Sciences, Tulane University, New Orleans, LA, United States
 # --------------------------------------------------------------
 **Packages Required to Install**
 
