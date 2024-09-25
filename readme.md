@@ -8,7 +8,7 @@ Related paper/manuscript for NUMAN 2.0: IN REVIEW *(The link and citation will b
 *Read the manuscript and supplementary material for more detailed understanding of the model*
 
 ## Contributors to the model
-- Pradipta Biswas<sup><1>
+- Pradipta Biswas<sup>1
 - Robert R. Twilley
 - André S. Rovai1,*,
 - Alexandra Christensen2,
