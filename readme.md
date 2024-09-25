@@ -10,19 +10,24 @@ Related paper/manuscript for NUMAN 2.0: IN REVIEW *(The link and citation will b
 ## Contributors to the model
 - Pradipta Biswas<sup>1
 - Robert R. Twilley<sup>1
-- André S. Rovai<sup>1,*
+- André S. Rovai<sup>1,a
 - Alexandra Christensen<sup>2
-- Zoe I. Shribman<sup>1,**
+- Zoe I. Shribman<sup>1,b
 - Sabarethinam Kameshwar<sup>3
 
-**Address**
-1 Department of Oceanography and Coastal Sciences, College of Coast and Environment, Louisiana State University, Baton Rouge, Louisiana, USA
-2 Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, 91109, USA
-3 Department of Civil & Environmental Engineering, Louisiana State University, Baton Rouge, Louisiana, USA
+### Address
+*1* Department of Oceanography and Coastal Sciences, College of Coast and Environment, Louisiana State University, Baton Rouge, Louisiana, USA
+
+*2* Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, 91109, USA
+
+*3* Department of Civil & Environmental Engineering, Louisiana State University, Baton Rouge, Louisiana, USA
 
 *Present Address*
-* U.S. Army Engineer Research and Development Center, Vicksburg, MS, 39180, USA
-** Department of Earth and Environmental Sciences, Tulane University, New Orleans, LA, United States
+
+*a* U.S. Army Engineer Research and Development Center, Vicksburg, MS, 39180, USA
+
+*b* Department of Earth and Environmental Sciences, Tulane University, New Orleans, LA, United States
+
 # --------------------------------------------------------------
 **Packages Required to Install**
 
