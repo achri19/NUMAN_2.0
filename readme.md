@@ -1,5 +1,25 @@
 # NUMAR 2.0
+## Eco-geosoil Model 
+The Nutrient Mangrove (NUMAN) model, initially developed by Chen & Twilley (1999) was designed to simulate soil dynamics in mangrove ecosystems. This pioneering work laid the groundwork for further research in the field. We have reformulated the NUMAN model, testing it across various sites with different nutrient gradients. Key updates include revising the equations for a more accurate mass balance and integrating recent field data, resulting in a more robust and reliable model. Now, NUMAN 2.0 can confidently track necromass from various sources, carbon density in the soil, carbon sequestration rates, and the relative volume contributions from different sources or tributaries, along with a wide range of other output variables related to soil properties. To ensure its generality, the model was tested in three distinct mangrove settings in South Florida, each representing different nutrient gradients. Additionally, this version incorporates both probabilistic and deterministic analyses to enhance its robustness.
 
+Original paper for previous NUMAN version: Chen, R., & Twilley, R. R. (1999). A simulation model of organic matter and nutrient accumulation in mangrove wetland soils. Biogeochemistry, 44(1), 93–118. https://doi.org/10.1007/BF00993000
+
+Related paper/manuscript for NUMAN 2.0: IN REVIEW *(The link and citation will be shared once the preprint is available to share)*
+*Read the manuscript and supplementary material for more detailed understanding of the model*
+
+## Contributors to the model
+- Pradipta Biswas<sup><1/sup>
+- Robert R. Twilley
+- André S. Rovai1,*,
+- Alexandra Christensen2,
+- Zoe I. Shribman1,**,
+- Sabarethinam Kameshwar3
+
+1 Department of Oceanography and Coastal Sciences, College of Coast and Environment, Louisiana State University, Baton Rouge, Louisiana, USA
+
+2 Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, 91109, USA
+
+3 Department of Civil & Environmental Engineering, Louisiana State University, Baton Rouge, Louisiana, USA
 # --------------------------------------------------------------
 **Packages Required to Install**
 
